@@ -1,0 +1,6 @@
+.ensime
+.ensime_cache
+scripts/metastore_db
+datasets
+.idea
+target
